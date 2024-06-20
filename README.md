@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I currently work at Turin Polytechnic University in Tashkent as a teacher of "Computer Architecture" course for Computer Engineering and Software Engineering students.
+I am currently working on: creating interactive laboratory methods for teaching ARM v8 assembly language and concepts of computer architecture in general.
+
+How to reach me: l.asretdinova@polito.uz
+
 <!--
 **Lobar-128/Lobar-128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
